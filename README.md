@@ -241,6 +241,7 @@ The project uses the [MIT License](./LICENSE), so feel free to use it for your o
 - Narges Ahmadi Asl ([GitHub](https://github.com/narg3s))
 - Lasse Zimmer ([GitHub](https://github.com/joos-de-momper))
 - Andre Wigandt ([GitHub](https://github.com/AndreWigandt))
+- Borys Ioshchikhes ([GitHub](https://github.com/Borika95))
 
 
 
