@@ -7,14 +7,11 @@ easily understand how to use it and what it does.
 Please follow the template provided in this file when adding new content to it to 
 ensure that the README file continues to be easy to read and understand.
 
-### What is an Expert system?
-In the industry sector, an _Expert System_ is a specialized software tool 
-that analyzes data, applies predefined rules or ML-Models, and provides 
-recommendations for optimizing energy use. Expert Systems help monitor performance, 
-detect inefficiencies, and automate decision-making to improve energy savings.
+### What is an expert system?
+An _Expert systems_ is a computer program designed to simulate the decision-making abilities of a human expert in a specific domain. These systems apply knowledge and inference rules to analyze data and provide conclusions, recommendations, or solutions to problems. 
 
-The __Expert System Shell for Energy Efficiency__ enables users with minimal programming expertise
-to create their own expert systems. It provides them with a predefined structure and easy-to-understand
+The __Expert System Shell for Energy Efficiency (ESS4EE)__ enables users with minimal programming expertise
+to create their own expert systems for improving energy efficiency in manufactruing. It provides them with a predefined structure and easy-to-understand
 examples to guide them through the implementation process.
 ## Table of Contents
   - [Detailed Description](#detailed-description)
